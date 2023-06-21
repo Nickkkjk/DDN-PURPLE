@@ -14,7 +14,7 @@
 @import url('https://commandcrafterhd.github.io/DiscordDarkNeon/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-@import url('https://commandcrafterhd.github.io/DiscordDarkNeon/css/hideUsers.css');
+/*@import url('https://commandcrafterhd.github.io/DiscordDarkNeon/css/hideUsers.css');*/
 /* This import adds the collapsible user-list. Remove it/comment it out to disable that feature */
 
 /* CUSTOMIZE COLORS IN HERE! */
@@ -30,7 +30,7 @@
 
   --transition-time: .15s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: https://i.imgur.com/bx2DM7b.png; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: https://github.com/Nickkkjk/DDN-PURPLE/blob/master/8N37ki61.png; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 10px; /* Blurs the image which helps with readability of text infront of it */
